@@ -24,4 +24,4 @@ Copy the link inside the box and add it as a **Subscription Group** (Update regu
 لینک داخل کادر زیر را کپی کرده و در قسمت Subscription برنامه‌ وارد کنید (مرتب به‌روزرسانی کنید):
 
 ```text
-[https://raw.githubusercontent.com/Tally-Hawk/milad-updates/main/nodes.txt](https://raw.githubusercontent.com/Tally-Hawk/milad-updates/main/nodes.txt)
+https://raw.githubusercontent.com/Tally-Hawk/milad-updates/main/nodes.txt
