@@ -1,4 +1,7 @@
-# 🗼 Milad Tower Node - Official Access
+# 🗼 Milad Tower Node
+
+> [!CAUTION]
+> **Disclaimer: Use at your own risk.** This project is for educational and personal use only. The maintainer is not responsible for any misuse, data loss, or legal consequences resulting from the use of this software or configuration.
 
 ## 1. Get the Software
 Click the links below to download the apps directly from this server:
