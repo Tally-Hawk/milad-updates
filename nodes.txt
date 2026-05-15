@@ -1,0 +1,1 @@
+vless://80d89767-9f0a-4954-a317-b36f8d88b34f@159.65.201.17:443?type=tcp&encryption=none&security=reality&pbk=KFzVEWyvAdWAmaLtwt50Z8nJOFeveqPdwCxdI_modgg&fp=chrome&sni=www.microsoft.com&sid=25212f842ca9b8&spx=%2F&flow=xtls-rprx-vision#Milad_Tower_Node-vb4ix328
