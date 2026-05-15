@@ -11,7 +11,7 @@
 For real-time updates and direct file downloads, join our Telegram:
 برای دریافت آخرین اخبار و دانلود مستقیم فایل‌ها به کانال تلگرام ما بپیوندید:
 
-👉 [Join Milad Tower Telegram](https://t.me/YourChannelUsername)
+👉 [Join Milad Tower Telegram](https://t.me/MiladTowerNode)
 
 ## 📸 2. Scan to Connect | اسکن برای اتصال
 Open your app and scan this QR code to import the server:
