@@ -7,10 +7,11 @@
 ---
 
 ## 📱 1. Download Software | دانلود نرم‌افزار
-Click the links below to download the apps for your device:
-برای دانلود برنامه‌های مورد نیاز روی لینک‌های زیر کلیک کنید:
-* 📱 [Download for Android (APK)](https://drive.google.com/file/d/1ztGXZ2x8ZpUwBNOGULGQFe9hOpgT8Wgg/view?usp=drive_link)
-* 💻 [Download for Windows (ZIP)](https://drive.google.com/file/d/1t7vTjgr56hheGCak5eD2elcQLXJw2YZ-/view?usp=drive_link)
+## 💬 Join the Community | انجمن تلگرام
+For real-time updates and direct file downloads, join our Telegram:
+برای دریافت آخرین اخبار و دانلود مستقیم فایل‌ها به کانال تلگرام ما بپیوندید:
+
+👉 [Join Milad Tower Telegram](https://t.me/YourChannelUsername)
 
 ## 📸 2. Scan to Connect | اسکن برای اتصال
 Open your app and scan this QR code to import the server:
