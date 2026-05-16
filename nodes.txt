@@ -1,1 +1,1 @@
-vless://4f413aee-4af0-456c-8f10-45cde6b14c97@159.65.201.17:443?type=tcp&encryption=none&security=reality&pbk=LU33LYUyQh7udbD61sw24KXlrinr--xOeFKcGZhrCiA&fp=chrome&sni=images.apple.com&sid=1e1dd5ccd0&spx=%2F#Milad-Tower_VLESS-6ke31k8v
+vless://4f413aee-4af0-456c-8f10-45cde6b14c97@159.65.201.17:443?type=tcp&encryption=none&security=reality&pbk=ZmXexiR0fY1sm9AkFeDxbzPBgsdGv8gl0X9_zpfjySc&fp=chrome&sni=www.sony.com&sid=5b68&spx=%2F#Milad-Tower_VLESS-6ke31k8v
