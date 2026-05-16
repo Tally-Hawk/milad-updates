@@ -1,1 +1,1 @@
-vless://80d89767-9f0a-4954-a317-b36f8d88b34f@159.65.201.17:8443?type=tcp&encryption=none&security=reality&pbk=KFzVEWyvAdWAmaLtwt50Z8nJOFeveqPdwCxdI_modgg&fp=chrome&sni=www.microsoft.com&sid=25212f842ca9b8&spx=%2F&flow=xtls-rprx-vision#Milad_Tower_Node-vb4ix328
+vless://4f413aee-4af0-456c-8f10-45cde6b14c97@159.65.201.17:443?type=tcp&encryption=none&security=reality&pbk=LU33LYUyQh7udbD61sw24KXlrinr--xOeFKcGZhrCiA&fp=chrome&sni=images.apple.com&sid=1e1dd5ccd0&spx=%2F#Milad-Tower_VLESS-6ke31k8v
